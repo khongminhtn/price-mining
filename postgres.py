@@ -1,5 +1,8 @@
 import psycopg2
 
+
+
+
 conn = psycopg2.connect(
   database="price_mining",
   host="localhost",
