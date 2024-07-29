@@ -4,3 +4,8 @@ env
 __pycache__
 creds.json
 .venv
+.gitignore
+price-mining.pem
+rootkey.csv
+.elasticbeanstalk
+tokens.csv
